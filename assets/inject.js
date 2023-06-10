@@ -109,6 +109,7 @@ dbAds.forEach(function(a){
 
       }else if(a["position"]=="in-top"){
         
+        
       };
       dataScript.forEach(function(b){
         createElDom.append(b); 
